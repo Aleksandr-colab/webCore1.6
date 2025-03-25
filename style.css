@@ -245,7 +245,7 @@ main {
   content: '';
   display: inline-block;
   margin-right: 8px;
-  background-image: url("/block7/src/img/expand.svg");
+  background-image: url(./static/expand.svg);
   width: 24px;
   height: 24px; }
 
@@ -277,7 +277,7 @@ main {
   position: absolute;
   left: -25px;
   display: inline-block;
-  background-image: url("/block7/src/img/expand.svg");
+  background-image: url(./static/expand.svg);
   width: 24px;
   height: 24px;
   transform: rotate(180deg); }
@@ -316,7 +316,7 @@ main {
   display: block;
   width: 24px;
   height: 24px;
-  background-image: url("/block7/src/img/expand.svg");
+  background-image: url(./static/expand.svg);
   background-repeat: no-repeat;
   position: absolute;
   top: -1px;
@@ -344,7 +344,7 @@ main {
   display: block;
   width: 24px;
   height: 24px;
-  background-image: url("/block7/src/img/expand.svg");
+  background-image: url(./static/expand.svg);
   background-repeat: no-repeat;
   position: absolute;
   top: 0;
@@ -458,7 +458,7 @@ button#hidden2 {
   display: block;
   width: 40px;
   height: 40px;
-  background-image: url("/block7/src/img/go.svg");
+  background-image: url(./static/go.svg);
   background-repeat: no-repeat;
   position: absolute;
   top: 14px;
@@ -528,7 +528,7 @@ body::after {
   display: block;
   width: 40px;
   height: 40px;
-  background-image: url("/block7/src/img/go.svg");
+  background-image: url(./static/go.svg);
   background-repeat: no-repeat;
   position: absolute;
   bottom: 16px;
@@ -624,7 +624,7 @@ body::after {
   width: 24px;
   height: 24px;
   display: block;
-  background-image: url("/block7/src/img/goside.svg");
+  background-image: url(./static/goside.svg);
   background-repeat: no-repeat;
   position: absolute;
   bottom: 4px;
@@ -720,7 +720,7 @@ body::after {
   display: block;
   width: 24px;
   height: 27.49px;
-  background-image: url("/block7/src/img/more.svg");
+  background-image: url(./static/more.svg);
   background-repeat: no-repeat;
   position: absolute;
   top: 23px;
@@ -1056,7 +1056,7 @@ li {
   position: absolute;
   top: 100px;
   left: 0;
-  background-image: url("/block7/src/img/highlight.svg"); }
+  background-image: url("/src/img/highlight.svg"); }
 
 .popup-call__input {
   width: 288px;
@@ -1144,7 +1144,7 @@ li {
   position: absolute;
   top: 4px;
   right: 9.14px;
-  background-image: url("/block7/src/img/goside.svg");
+  background-image: url("/src/img/goside.svg");
   background-repeat: no-repeat; }
 
 .popup-call__footer--link {
@@ -1243,7 +1243,7 @@ li {
   position: absolute;
   top: 100px;
   left: 0;
-  background-image: url("/block7/src/img/highlight.svg"); }
+  background-image: url(./static/highlight.svg); }
 
 .popup-callback__input {
   width: 288px;
@@ -1307,7 +1307,7 @@ li {
   position: absolute;
   top: 4px;
   right: 9.14px;
-  background-image: url("/block7/src/img/goside.svg");
+  background-image: url(./static/goside.svg);
   background-repeat: no-repeat; }
 
 .popup-callback__footer--link {
