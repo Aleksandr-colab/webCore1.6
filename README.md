@@ -1,3 +1,4 @@
+[Финальная работа по блоку webCore](https://ekfrontdev.github.io/-_1.6/)
 # Webpack Static Site Starter Kit
 
 ## Требования к проекту
