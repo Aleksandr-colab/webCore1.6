@@ -1,3 +1,4 @@
+[Финальная работа по блоку webCore](https://aleksandr-colab.github.io/webCore1.6/)
 # Webpack Static Site Starter Kit
 
 ## Требования к проекту
